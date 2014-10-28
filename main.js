@@ -119,49 +119,7 @@
 				});
 			  }  
 			  
-			  
-			  /*var rhoneLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/69.kml",
-				//url : "http://gmapiac.alainbarthelemy.com/layers/KML_Samples.kml"
-				suppressInfoWindows: true,
-				map: map
-			  });
-			 //rhoneLayer.setMap(map);
-			  var loireLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/42.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var ainLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/01.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var hsavoieLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/74.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var savoieLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/73.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var isereLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/38.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var dromeLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/26.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });
-			  var ardecheLayer = new google.maps.KmlLayer({
-				url: "http://gmapiac.alainbarthelemy.com/layers/departements/07.kml",
-				suppressInfoWindows: true,
-				map: map
-			  });*/  
+			    
         });
 		
       }
