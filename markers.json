@@ -1,0 +1,533 @@
+[
+    {  
+        "dept":"38",
+		"cat":2,
+		"name":"Lycée Pierre Béghin, Moirons",
+        "label":"",
+        "lat":"45.3209597",
+        "long":"5.585691",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":2,
+		"name":"Collège Le Calloud, La Tour du Pin",
+        "label":"",
+        "lat":"45.5745395",
+        "long":"5.44765",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Cab, Grenoble",
+        "label":"",
+        "lat":"45.198611",
+        "long":"5.724306",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Travail et Culture (Tec), Saint Maurice l’Exil",
+        "label":"",
+        "lat":"45.388946",
+        "long":"4.782409",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Médiathèque, La Côte Saint André ",
+        "label":"",
+        "lat":"45.3874401",
+        "long":"5.2640157",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Musée, Bourgoin-Jallieu",
+        "label":"",
+        "lat":"45.5870182",
+        "long":"5.2792363",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":2,
+		"name":"Cité scolaire Albert Triboulet, Romans ",
+        "label":"",
+        "lat":"45.0454624",
+        "long":"5.055669",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":2,
+		"name":"Collège  Henri Barbusse, Buis-les-Baronnies ",
+        "label":"",
+        "lat":"44.277971",
+        "long":"5.273964",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":2,
+		"name":"Collège Claude Debussy, Romans–sur-Isère",
+        "label":"",
+        "lat":"45.056386",
+        "long":"5.043239",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":2,
+		"name":"Collège de l’Europe Jean Monnet, Bourg-de-Péage",
+        "label":"",
+        "lat":"45.039504",
+        "long":"5.057399",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Espace Visitation, Romans",
+        "label":"",
+        "lat":"45.0439753",
+        "long":"5.0541073",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Médiathèque départementale, Die ",
+        "label":"",
+        "lat":"44.750975",
+        "long":"5.376118",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Lux, Valence ",
+        "label":"",
+        "lat":"44.93005",
+        "long":"4.893908",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Château des Adhémar/Centre d’art contemporain, Montélimar ",
+        "label":"",
+        "lat":"44.559181",
+        "long":"4.754174",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Art3, Valence",
+        "label":"",
+        "lat":"44.933878",
+        "long":"4.890086",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Palais Delphinal, Saint Donat-sur-l’Herbasse ",
+        "label":"",
+        "lat":"45.1221075",
+        "long":"4.981542",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Château des Allymes, Ambérieu-en-Bugey ",
+        "label":"",
+        "lat":"45.973666",
+        "long":"5.409959",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Musée International de la Chaussure, Romans-sur-Isère",
+        "label":"",
+        "lat":"45.044574",
+        "long":"5.055701",
+        "url":""
+    },
+	{  
+        "dept":"07",
+		"cat":2,
+		"name":"Lycée Vincent d’Indy, Privas",
+        "label":"",
+        "lat":"44.729887",
+        "long":"4.593848",
+        "url":""
+    },
+	{  
+        "dept":"07",
+		"cat":2,
+		"name":"Collège Le Laoul, Bourg-Saint-Andéol",
+        "label":"",
+        "lat":"44.3814608",
+        "long":"4.6410025",
+        "url":""
+    },
+	{  
+        "dept":"07",
+		"cat":1,
+		"name":"Chapelle Sainte-Marie, Annonay",
+        "label":"",
+        "lat":"45.241444",
+        "long":"4.669803",
+        "url":""
+    },
+	{  
+        "dept":"07",
+		"cat":1,
+		"name":"Château-Musée, Tournon-sur-Rhône ",
+        "label":"",
+        "lat":"45.068346",
+        "long":"4.831753",
+        "url":""
+    },
+	{  
+        "dept":"07",
+		"cat":1,
+		"name":"Château de Vogüé, Vogüé",
+        "label":"",
+        "lat":"44.550156",
+        "long":"4.41586",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":2,
+		"name":"Collège de Prevessin-Moëns",
+        "label":"",
+        "lat":"46.25636",
+        "long":"6.073248",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":2,
+		"name":"Collège Louise de Savoie, Pont d’Ain ",
+        "label":"",
+        "lat":"46.045901",
+        "long":"5.346527",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":2,
+		"name":"Collège de la Dombes, Saint-André-de-Corcy",
+        "label":"",
+        "lat":"45.925857",
+        "long":"4.9792198",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":2,
+		"name":"Collège Antoine de Saint-Exupéry, Bellegarde sur Valserine ",
+        "label":"",
+        "lat":"46.1113",
+        "long":"5.817894",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":2,
+		"name":"Lycée Lamartine, Belley",
+        "label":"",
+        "lat":"45.76121",
+        "long":"5.68486",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":1,
+		"name":"Centre Aragon, Oyonnax",
+        "label":"",
+        "lat":"46.260861",
+        "long":"5.646286",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":1,
+		"name":"La Maroquinerie, Nantua ",
+        "label":"",
+        "lat":"46.154972",
+        "long":"5.605714",
+        "url":""
+    },
+	{  
+        "dept":"01",
+		"cat":1,
+		"name":"Musée Chintreuil, Pont-de-Vaux ",
+        "label":"",
+        "lat":"46.430357",
+        "long":"4.937886",
+        "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Angle Art Contemporain, Saint-Paul-Trois-Châteaux",
+        "label":"ANGLE ART CONTEMPORAIN",
+        "lat":"44.348678",
+        "long":"4.768294999999966",
+        "url":"\/p\/fr\/angle-art-contemporain"
+    },
+    {  
+        "dept":"74",
+		"cat":1,
+		"name":"Centre culturel, Flaine",
+        "label":"CENTRE CULTUREL DE FLAINE",
+        "lat":"46.0197786",
+        "long":"6.661164600000006",
+        "url":"\/p\/fr\/centre-culturel-de-flaine"
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Maison de la Cure Espace d’art contemporain à Saint-Restitut",
+        "label":"CENTRE D\u0027ART CONTEMPORAIN DE SAINT-RESTITUT",
+        "lat":"44.3317369",
+        "long":"4.789284899999984",
+        "url":"\/p\/fr\/centre-d-art-contemporain-de-saint-restitut"
+    },
+    {  
+        "dept":"01",
+		"cat":1,
+		"name":"Centre d'Art Contemporain de Lacoux à Hauteville-Lompnes",
+        "label":"CENTRE D\u0027ART CONTEMPORAIN DE LACOUX (CACL)",
+        "lat":"45.968156",
+        "long":"5.542425999999978",
+        "url":"\/p\/fr\/centre-d-art-contemporain-de-lacoux-cacl"
+    },
+    {  
+        "dept":"74",
+		"cat":3,
+		"name":"Ecole Supérieure d’art d’Annecy",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART DE L\u2019AGGLOM\u00c9RATION D\u0027ANNECY (ESAAA)",
+        "lat":"45.8941438",
+        "long":"6.134657800000014",
+        "url":"\/p\/fr\/ecole-superieure-d-art-de-l-agglomeration-d-annecy-esaaa"
+    },
+    {  
+        "dept":"42",
+		"cat":3,
+		"name":"Ecole Supérieure d’art et design de Saint-Etienne",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN DE SAINT-ETIENNE (ESADSE)",
+        "lat":"45.44936939999999",
+        "long":"4.385759499999949",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-de-saint-etienne-esadse"
+    },
+    {  
+        "dept":"69",
+		"cat":3,
+		"name":"Ecole Nationale des Beaux-Arts de Lyon",
+        "label":"\u00c9COLE NATIONALE SUP\u00c9RIEURE DES BEAUX-ARTS (ENSBA) DE LYON",
+        "lat":"45.7681867",
+        "long":"4.8160371999999825",
+        "url":"\/p\/fr\/ecole-nationale-superieure-des-beaux-arts-ensba-de-lyon"
+    },
+    {  
+        "dept":"38",
+		"cat":3,
+		"name":"Ecole Supérieure d’art de Valence et Grenoble",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN GRENOBLE-VALENCE",
+        "lat":"45.1868887",
+        "long":"5.7268528",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-grenoble-valence"
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Espace François-Auguste Ducros, Grignan",
+        "label":"ESPACE D\u0027ART FRAN\u00c7OIS-AUGUSTE DUCROS",
+        "lat":"44.4202192",
+        "long":"4.908818699999983",
+        "url":"\/p\/fr\/espace-d-art-francois-auguste-ducros"
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Fort du Bruissin, Francheville",
+        "label":"FORT DU BRUISSIN",
+        "lat":"45.7298014",
+        "long":"4.740115800000012",
+        "url":"\/p\/fr\/fort-du-bruissin"
+    },
+    {  
+        "dept":"07",
+		"cat":1,
+		"name":"Galerie d’exposition du Théâtre, Privas ‎",
+        "label":"GALERIE D\u0027EXPOSITION DU TH\u00c9\u00c2TRE DE PRIVAS",
+        "lat":"44.7324029",
+        "long":"4.596842000000038",
+        "url":"\/p\/fr\/galerie-d-exposition-du-theatre-de-privas"
+    },
+    {  
+        "dept":"42",
+		"cat":1,
+		"name":"Greenhouse, Saint-Etienne ",
+        "label":"GREENHOUSE",
+        "lat":"45.416548",
+        "long":"4.390840099999991",
+        "url":"\/p\/fr\/greenhouse"
+    },
+    {  
+        "dept":"74",
+		"cat":1,
+		"name":"Arteppes, Annecy",
+        "label":"L\u0027ARTEPPES - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"45.9190231",
+        "long":"6.128993100000002",
+        "url":"\/p\/fr\/l-arteppes-espace-d-art-contemporain"
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Attrape Couleurs, Lyon",
+        "label":"L\u0027ATTRAPE-COULEURS",
+        "lat":"45.7981144",
+        "long":"4.830147699999998",
+        "url":"\/p\/fr\/l-attrape-couleurs"
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"BF15, Lyon",
+        "label":"LA BF15",
+        "lat":"45.7654557",
+        "long":"4.831467400000065",
+        "url":"\/p\/fr\/la-bf15"
+    },
+    {  
+        "dept":"74",
+		"cat":1,
+		"name":"Chapelle de la visitation, Espace d'art contemporain, Thonon-les-Bains",
+        "label":"LA CHAPELLE DE LA VISITATION - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"46.3725098",
+        "long":"6.480626900000061",
+        "url":"\/p\/fr\/la-chapelle-de-la-visitation-espace-d-art-contemporain"
+    },
+    {  
+        "dept":"73",
+		"cat":1,
+		"name":"La Conciergerie, La Motte Servolex",
+        "label":"LA CONCIERGERIE",
+        "lat":"45.5977326",
+        "long":"5.878520799999933",
+        "url":"\/p\/fr\/la-conciergerie"
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"La Halle, Pont-en-Royans",
+        "label":"LA HALLE DE PONT-EN-ROYANS",
+        "lat":"45.061189",
+        "long":"5.3441609999999855",
+        "url":"\/p\/fr\/la-halle-de-pont-en-royans"
+    },
+    {  
+        "dept":"74",
+		"cat":1,
+		"name":"Villa du Parc, Annemasse",
+        "label":"LA VILLA DU PARC - CENTRE D\u0027ART CONTEMPORAIN",
+        "lat":"46.1927943",
+        "long":"6.231616600000052",
+        "url":"\/p\/fr\/la-villa-du-parc-centre-d-art-contemporain"
+    },
+    {  
+        "dept":"07",
+		"cat":1,
+		"name":"Gac, Annonay",
+        "label":"LE GROUPE D\u0027ART CONTEMPORAIN (GAC) D\u0027ANNONAY",
+        "lat":"45.2401349",
+        "long":"4.673481100000004",
+        "url":"\/p\/fr\/le-groupe-d-art-contemporain-gac-d-annonay"
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Magasin-Centre national d’art contemporain, Grenoble",
+        "label":"LE MAGASIN - CENTRE NATIONAL D\u0027ART CONTEMPORAIN",
+        "lat":"45.1874695",
+        "long":"5.704746",
+        "url":"\/p\/fr\/le-magasin-centre-national-d-art-contemporain"
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Le Vog, Fontaine",
+        "label":"LE VOG",
+        "lat":"45.1896943",
+        "long":"5.692172600000049",
+        "url":"\/p\/fr\/le-vog"
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Fondation Albert Gleizes, Moly Sabata",
+        "label":"MOLY-SABATA \/ FONDATION ALBERT GLEIZES",
+        "lat":"45.3084034",
+        "long":"4.792172499999992",
+        "url":"\/p\/fr\/moly-sabata-fondation-albert-gleizes"
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Musée d’Art Contemporain, Lyon",
+        "label":"MUS\u00c9E D\u0027ART CONTEMPORAIN DE LYON",
+        "lat":"45.7838281",
+        "long":"4.852403600000002",
+        "url":"\/p\/fr\/musee-d-art-contemporain-de-lyon"
+    },
+    {  
+        "dept":"42",
+		"cat":1,
+		"name":"Musée d’art moderne, Saint-Etienne Métropole",
+        "label":"MUS\u00c9E D\u0027ART MODERNE ET CONTEMPORAIN DE SAINT-ETIENNE M\u00c9TROPOLE",
+        "lat":"45.4705973",
+        "long":"4.372738099999992",
+        "url":"\/p\/fr\/musee-d-art-moderne-et-contemporain-de-saint-etienne-metropole"
+    },
+    {  
+        "dept":"38",
+		"cat":1,
+		"name":"Musée, Grenoble",
+        "label":"MUS\u00c9E DE GRENOBLE",
+        "lat":"45.194077",
+        "long":"5.732171999999991",
+        "url":"\/p\/fr\/musee-de-grenoble"
+    },
+    {  
+        "dept":"26",
+		"cat":1,
+		"name":"Musée, Valence",
+        "label":"MUS\u00c9E DE VALENCE ART ET ARCHEOLOGIE",
+        "lat":"44.9312305",
+        "long":"4.889714499999968",
+        "url":"\/p\/fr\/musee-de-valence-art-et-archeologie"
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Urdla, Lyon ",
+        "label":"URDLA CENTRE INTERNATIONAL ESTAMPE \u0026 LIVRE",
+        "lat":"45.7709844",
+        "long":"4.887984599999982",
+        "url":"\/p\/fr\/urdla-centre-international-estampe-livre"
+    }
+]

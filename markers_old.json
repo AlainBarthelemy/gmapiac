@@ -1,0 +1,658 @@
+[  
+    {  
+        "dept":168,
+		"cat":1,
+        "label":"ADELE",
+        "lat":"45.7706629",
+        "long":"4.835834900000009",
+        "url":"\/p\/fr\/adele"
+    },
+    {  
+        "dept":173,
+		"cat":1,
+        "label":"AD\u00c9RA",
+        "lat":"45.7681867",
+        "long":"4.8160371999999825",
+        "url":"\/p\/fr\/adera"
+    },
+    {  
+        "dept":21,
+		"cat":1,
+        "label":"ANGLE ART CONTEMPORAIN",
+        "lat":"44.348678",
+        "long":"4.768294999999966",
+        "url":"\/p\/fr\/angle-art-contemporain"
+    },
+    {  
+        "dept":54,
+		"cat":1,
+        "label":"ANNE-MARIE ET ROLAND PALLADE - ART CONTEMPORAIN",
+        "lat":"45.7702733",
+        "long":"4.834155799999962",
+        "url":"\/p\/fr\/anne-marie-et-roland-pallade-art-contemporain"
+    },
+    {  
+        "dept":22,
+		"cat":1,
+        "label":"ART3",
+        "lat":"44.9338683",
+        "long":"4.890194699999938",
+        "url":"\/p\/fr\/art3"
+    },
+    {  
+        "dept":24,
+		"cat":1,
+        "label":"ARTOTH\u00c8QUE DE LA PART-DIEU",
+        "lat":"45.759887",
+        "long":"4.858035900000004",
+        "url":"\/p\/fr\/artotheque-de-la-part-dieu"
+    },
+    {  
+        "dept":26,
+		"cat":1,
+        "label":"BIKINI",
+        "lat":"45.7509171",
+        "long":"4.844011499999965",
+        "url":"\/p\/fr\/bikini"
+    },
+    {  
+        "dept":29,
+		"cat":1,
+        "label":"CENTRE D\u0027ART BASTILLE",
+        "lat":"45.19517",
+        "long":"5.725272000000018",
+        "url":"\/p\/fr\/centre-d-art-bastille"
+    },
+    {  
+        "dept":202,
+		"cat":1,
+        "label":"ARCHIPEL ART CONTEMPORAIN",
+        "lat":"45.8927115",
+        "long":"6.7131950000000415",
+        "url":"\/p\/fr\/archipel-art-contemporain"
+    },
+    {  
+        "dept":204,
+		"cat":1,
+        "label":"CENTRE CULTUREL DE FLAINE",
+        "lat":"46.0197786",
+        "long":"6.661164600000006",
+        "url":"\/p\/fr\/centre-culturel-de-flaine"
+    },
+    {  
+        "dept":205,
+		"cat":1,
+        "label":"ARTOTH\u00c8QUE - BIBLIOTH\u00c8QUE BONLIEU",
+        "lat":"45.9018828",
+        "long":"6.128692399999977",
+        "url":"\/p\/fr\/artotheque-bibliotheque-bonlieu"
+    },
+    {  
+        "dept":258,
+		"cat":1,
+        "label":"CENTRE D\u0027ART CONTEMPORAIN LA HALLE DES BOUCHERS",
+        "lat":"45.5267671",
+        "long":"4.874877900000001",
+        "url":"\/p\/fr\/centre-d-art-contemporain-la-halle-des-bouchers"
+    },
+    {  
+        "dept":27,
+		"cat":1,
+        "label":"CENTRE D\u0027ART CONTEMPORAIN DE SAINT-RESTITUT",
+        "lat":"44.3317369",
+        "long":"4.789284899999984",
+        "url":"\/p\/fr\/centre-d-art-contemporain-de-saint-restitut"
+    },
+    {  
+        "dept":28,
+		"cat":1,
+        "label":"CENTRE D\u0027ARTS PLASTIQUES (CAP) DE SAINT-FONS",
+        "lat":"45.69480009999999",
+        "long":"4.856625000000008",
+        "url":"\/p\/fr\/centre-d-arts-plastiques-cap-de-saint-fons"
+    },
+    {  
+        "dept":31,
+		"cat":1,
+        "label":"CENTRE D\u0027ART CONTEMPORAIN DE LACOUX (CACL)",
+        "lat":"45.968156",
+        "long":"5.542425999999978",
+        "url":"\/p\/fr\/centre-d-art-contemporain-de-lacoux-cacl"
+    },
+    {  
+        "dept":34,
+		"cat":1,
+        "label":"COUVENT DE LA TOURETTE",
+        "lat":"45.82379359999999",
+        "long":"4.624387699999943",
+        "url":"\/p\/fr\/couvent-de-la-tourette"
+    },
+    {  
+        "dept":35,
+		"cat":1,
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART DE L\u2019AGGLOM\u00c9RATION D\u0027ANNECY (ESAAA)",
+        "lat":"45.8941438",
+        "long":"6.134657800000014",
+        "url":"\/p\/fr\/ecole-superieure-d-art-de-l-agglomeration-d-annecy-esaaa"
+    },
+    {  
+        "dept":36,
+		"cat":1,
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN DE SAINT-ETIENNE (ESADSE)",
+        "lat":"45.44936939999999",
+        "long":"4.385759499999949",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-de-saint-etienne-esadse"
+    },
+    {  
+        "dept":37,
+		"cat":1,
+        "label":"\u00c9COLE NATIONALE SUP\u00c9RIEURE DES BEAUX-ARTS (ENSBA) DE LYON",
+        "lat":"45.7681867",
+        "long":"4.8160371999999825",
+        "url":"\/p\/fr\/ecole-nationale-superieure-des-beaux-arts-ensba-de-lyon"
+    },
+    {  
+        "dept":38,
+		"cat":1,
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN GRENOBLE-VALENCE",
+        "lat":"45.1868887",
+        "long":"5.7268528",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-grenoble-valence"
+    },
+    {  
+        "dept":167,
+		"cat":1,
+        "label":"DOCUMENTS D\u0027ARTISTES RH\u00d4NE-ALPES",
+        "lat":"45.7801321",
+        "long":"4.83754870000007",
+        "url":"\/p\/fr\/documents-d-artistes-rhone-alpes"
+    },
+    {  
+        "dept":206,
+		"cat":1,
+        "label":"DAC CG74 - P\u00d4LE D\u00c9VELOPPEMENT CULTUREL \/ ART CONTEMPORAIN",
+        "lat":"45.8950691",
+        "long":"6.129218199999968",
+        "url":"\/p\/fr\/dac-cg74-pole-developpement-culturel-art-contemporain"
+    },
+    {  
+        "dept":48,
+		"cat":1,
+        "label":"ERIC LINARD GALERIE EDITIONS",
+        "lat":"44.3940058",
+        "long":"4.76972109999997",
+        "url":"\/p\/fr\/eric-linard-galerie-editions"
+    },
+    {  
+        "dept":39,
+		"cat":1,
+        "label":"ESPACE ARTS PLASTIQUES MADELEINE-LAMBERT",
+        "lat":"45.7042722",
+        "long":"4.8812374999999975",
+        "url":"\/p\/fr\/espace-arts-plastiques-madeleine-lambert"
+    },
+    {  
+        "dept":40,
+		"cat":1,
+        "label":"ESPACE D\u0027ART FRAN\u00c7OIS-AUGUSTE DUCROS",
+        "lat":"44.4202192",
+        "long":"4.908818699999983",
+        "url":"\/p\/fr\/espace-d-art-francois-auguste-ducros"
+    },
+    {  
+        "dept":41,
+		"cat":1,
+        "label":"ESPACE VALL\u00c8S \/ ART CONTEMPORAIN",
+        "lat":"45.1855631",
+        "long":"5.747542100000032",
+        "url":"\/p\/fr\/espace-valles-art-contemporain"
+    },
+    {  
+        "dept":43,
+		"cat":1,
+        "label":"FONDATION BULLUKIAN",
+        "lat":"45.756871",
+        "long":"4.830591000000027",
+        "url":"\/p\/fr\/fondation-bullukian"
+    },
+    {  
+        "dept":44,
+		"cat":1,
+        "label":"FORT DU BRUISSIN",
+        "lat":"45.7298014",
+        "long":"4.740115800000012",
+        "url":"\/p\/fr\/fort-du-bruissin"
+    },
+    {  
+        "dept":46,
+		"cat":1,
+        "label":"GALERIE D\u0027EXPOSITION DU TH\u00c9\u00c2TRE DE PRIVAS",
+        "lat":"44.7324029",
+        "long":"4.596842000000038",
+        "url":"\/p\/fr\/galerie-d-exposition-du-theatre-de-privas"
+    },
+    {  
+        "dept":47,
+		"cat":1,
+        "label":"GALERIE DOMI NOSTRAE",
+        "lat":"45.7593816",
+        "long":"4.842675600000007",
+        "url":"\/p\/fr\/galerie-domi-nostrae"
+    },
+    {  
+        "dept":49,
+		"cat":1,
+        "label":"GALERIE FRAN\u00c7OISE BESSON",
+        "lat":"45.7734231",
+        "long":"4.828287400000022",
+        "url":"\/p\/fr\/galerie-francoise-besson"
+    },
+    {  
+        "dept":50,
+		"cat":1,
+        "label":"GALERIE FRAN\u00c7OISE SOUCHAUD",
+        "lat":"45.7705922",
+        "long":"4.834670899999992",
+        "url":"\/p\/fr\/galerie-francoise-souchaud"
+    },
+    {  
+        "dept":51,
+		"cat":1,
+        "label":"GALERIE HOUG",
+        "lat":"45.7525527",
+        "long":"4.830019099999959",
+        "url":"\/p\/fr\/galerie-houg"
+    },
+    {  
+        "dept":307,
+		"cat":1,
+        "label":"FONDATION POUR L\u0027ART CONTEMPORAIN CLAUDINE ET JEAN-MARC SALOMON",
+        "lat":"45.8934371",
+        "long":"6.1176232000000255",
+        "url":"\/p\/fr\/fondation-pour-l-art-contemporain-claudine-et-jean-marc-salomon"
+    },
+    {  
+        "dept":52,
+		"cat":1,
+        "label":"GALERIE L\u0027ANTICHAMBRE",
+        "lat":"45.565573",
+        "long":"5.920951999999943",
+        "url":"\/p\/fr\/galerie-l-antichambre"
+    },
+    {  
+        "dept":53,
+		"cat":1,
+        "label":"GALERIE LE R\u00c9VERB\u00c8RE",
+        "lat":"45.7705005",
+        "long":"4.834380499999952",
+        "url":"\/p\/fr\/galerie-le-reverbere"
+    },
+    {  
+        "dept":55,
+		"cat":1,
+        "label":"GALERIE TATOR",
+        "lat":"45.7508862",
+        "long":"4.844165800000042",
+        "url":"\/p\/fr\/galerie-tator"
+    },
+    {  
+        "dept":56,
+		"cat":1,
+        "label":"GALERIE VERNEY-CARRON",
+        "lat":"45.7379987",
+        "long":"4.814952100000028",
+        "url":"\/p\/fr\/galerie-verney-carron"
+    },
+    {  
+        "dept":57,
+		"cat":1,
+        "label":"GALERIE VRAIS R\u00caVES",
+        "lat":"45.7767098",
+        "long":"4.833904599999983",
+        "url":"\/p\/fr\/galerie-vrais-reves"
+    },
+    {  
+        "dept":58,
+		"cat":1,
+        "label":"GOETHE-INSTITUT",
+        "lat":"45.755304",
+        "long":"4.832819500000028",
+        "url":"\/p\/fr\/goethe-institut"
+    },
+    {  
+        "dept":60,
+		"cat":1,
+        "label":"GREENHOUSE",
+        "lat":"45.416548",
+        "long":"4.390840099999991",
+        "url":"\/p\/fr\/greenhouse"
+    },
+    {  
+        "dept":62,
+		"cat":1,
+        "label":"H2M - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"46.2038135",
+        "long":"5.224575800000025",
+        "url":"\/p\/fr\/h2m-espace-d-art-contemporain"
+    },
+    {  
+        "dept":67,
+		"cat":1,
+        "label":"IAC - INSTITUT D\u0027ART CONTEMPORAIN VILLEURBANNE \/ RH\u00d4NE-ALPES",
+        "lat":"45.7626735",
+        "long":"4.872373700000026",
+        "url":"\/p\/fr\/iac-institut-d-art-contemporain-villeurbanne-rhone-alpes"
+    },
+    {  
+        "dept":72,
+		"cat":1,
+        "label":"IMAGESPASSAGES - ASSOCIATION D\u0027ARTS VISUELS",
+        "lat":"45.9021075",
+        "long":"6.1247516",
+        "url":"\/p\/fr\/imagespassages-association-d-arts-visuels"
+    },
+    {  
+        "dept":301,
+		"cat":1,
+        "label":"L\u0027ANGLE - ESPACE D\u0027ART CONTEMPORAIN DU PAYS ROCHOIS",
+        "lat":"46.0679862",
+        "long":"6.308364500000039",
+        "url":"\/p\/fr\/l-angle-espace-d-art-contemporain-du-pays-rochois"
+    },
+    {  
+        "dept":23,
+		"cat":1,
+        "label":"L\u0027ARTEPPES - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"45.9190231",
+        "long":"6.128993100000002",
+        "url":"\/p\/fr\/l-arteppes-espace-d-art-contemporain"
+    },
+    {  
+        "dept":76,
+		"cat":1,
+        "label":"L\u0027ATTRAPE-COULEURS",
+        "lat":"45.7981144",
+        "long":"4.830147699999998",
+        "url":"\/p\/fr\/l-attrape-couleurs"
+    },
+    {  
+        "dept":82,
+		"cat":1,
+        "label":"L\u0027\u00c9PICERIE MODERNE",
+        "lat":"45.6739444",
+        "long":"4.85873909999998",
+        "url":"\/p\/fr\/l-epicerie-moderne"
+    },
+    {  
+        "dept":83,
+		"cat":1,
+        "label":"L\u0027\u00c9QUIP\u00c9E - ASSOCIATION POUR LE D\u00c9VELOPPEMENT DU CIN\u00c9MA D\u0027ANIMATION",
+        "lat":"44.9414733",
+        "long":"4.897917399999983",
+        "url":"\/p\/fr\/l-equipee-association-pour-le-developpement-du-cinema-d-animation"
+    },
+    {  
+        "dept":25,
+		"cat":1,
+        "label":"LA BF15",
+        "lat":"45.7654557",
+        "long":"4.831467400000065",
+        "url":"\/p\/fr\/la-bf15"
+    },
+    {  
+        "dept":32,
+		"cat":1,
+        "label":"LA CHAPELLE DE LA VISITATION - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"46.3725098",
+        "long":"6.480626900000061",
+        "url":"\/p\/fr\/la-chapelle-de-la-visitation-espace-d-art-contemporain"
+    },
+    {  
+        "dept":165,
+		"cat":1,
+        "label":"LA CIT\u00c9 DU DESIGN",
+        "lat":"45.44936939999999",
+        "long":"4.385759499999949",
+        "url":"\/p\/fr\/la-cite-du-design"
+    },
+    {  
+        "dept":75,
+		"cat":1,
+        "label":"LA CONCIERGERIE",
+        "lat":"45.5977326",
+        "long":"5.878520799999933",
+        "url":"\/p\/fr\/la-conciergerie"
+    },
+    {  
+        "dept":42,
+		"cat":1,
+        "label":"LA FABRIQUE DU PONT D\u0027ALEYRAC",
+        "lat":"44.814816",
+        "long":"4.491688000000067",
+        "url":"\/p\/fr\/la-fabrique-du-pont-d-aleyrac"
+    },
+    {  
+        "dept":61,
+		"cat":1,
+        "label":"LA HALLE DE PONT-EN-ROYANS",
+        "lat":"45.061189",
+        "long":"5.3441609999999855",
+        "url":"\/p\/fr\/la-halle-de-pont-en-royans"
+    },
+    {  
+        "dept":84,
+		"cat":1,
+        "label":"LA MAISON DE LA TOUR",
+        "lat":"44.4218412",
+        "long":"4.81341180000004",
+        "url":"\/p\/fr\/la-maison-de-la-tour"
+    },
+    {  
+        "dept":86,
+		"cat":1,
+        "label":"LA MAISON DU LIVRE DE L\u0027IMAGE ET DU SON",
+        "lat":"45.7680331",
+        "long":"4.887697500000058",
+        "url":"\/p\/fr\/la-maison-du-livre-de-l-image-et-du-son"
+    },
+    {  
+        "dept":74,
+		"cat":1,
+        "label":"LA POUDRI\u00c8RE, \u00c9COLE DE R\u00c9ALISATION DE FILMS D\u0027ANIMATION",
+        "lat":"44.9414733",
+        "long":"4.897917399999983",
+        "url":"\/p\/fr\/la-poudriere-ecole-de-realisation-de-films-d-animation"
+    },
+    {  
+        "dept":71,
+		"cat":1,
+        "label":"LA SALLE DE BAINS",
+        "lat":"45.7704797",
+        "long":"4.83386889999997",
+        "url":"\/p\/fr\/la-salle-de-bains"
+    },
+    {  
+        "dept":89,
+		"cat":1,
+        "label":"LA VILLA DU PARC - CENTRE D\u0027ART CONTEMPORAIN",
+        "lat":"46.1927943",
+        "long":"6.231616600000052",
+        "url":"\/p\/fr\/la-villa-du-parc-centre-d-art-contemporain"
+    },
+    {  
+        "dept":81,
+		"cat":1,
+        "label":"LE BLEU DU CIEL",
+        "lat":"45.7727381",
+        "long":"4.8361777000000075",
+        "url":"\/p\/fr\/le-bleu-du-ciel"
+    },
+    {  
+        "dept":33,
+		"cat":1,
+        "label":"LE CH\u00c2TEAU DES ADH\u00c9MAR - CENTRE D\u0027ART CONTEMPORAIN",
+        "lat":"44.5596542",
+        "long":"4.754657100000031",
+        "url":"\/p\/fr\/le-chateau-des-adhemar-centre-d-art-contemporain"
+    },
+    {  
+        "dept":85,
+		"cat":1,
+        "label":"LE CUBE - R\u00c9SIDENCE D\u0027ARTISTES",
+        "lat":"44.422388",
+        "long":"4.812866999999983",
+        "url":"\/p\/fr\/le-cube-resdeptence-d-artistes"
+    },
+    {  
+        "dept":45,
+		"cat":1,
+        "label":"LE GROUPE D\u0027ART CONTEMPORAIN (GAC) D\u0027ANNONAY",
+        "lat":"45.2401349",
+        "long":"4.673481100000004",
+        "url":"\/p\/fr\/le-groupe-d-art-contemporain-gac-d-annonay"
+    },
+    {  
+        "dept":124,
+		"cat":1,
+        "label":"LE MAGASIN - CENTRE NATIONAL D\u0027ART CONTEMPORAIN",
+        "lat":"45.1874695",
+        "long":"5.704746",
+        "url":"\/p\/fr\/le-magasin-centre-national-d-art-contemporain"
+    },
+    {  
+        "dept":174,
+		"cat":1,
+        "label":"LE PLATEAU - ESPACE D\u0027EXPOSITION",
+        "lat":"45.7416535",
+        "long":"4.820049899999958",
+        "url":"\/p\/fr\/le-plateau-espace-d-exposition"
+    },
+    {  
+        "dept":203,
+		"cat":1,
+        "label":"LE POINT COMMUN - ESPACE D\u0027ART CONTEMPORAIN",
+        "lat":"45.90242749999999",
+        "long":"6.09595790000003",
+        "url":"\/p\/fr\/le-point-commun-espace-d-art-contemporain"
+    },
+    {  
+        "dept":90,
+		"cat":1,
+        "label":"LE VOG",
+        "lat":"45.1896943",
+        "long":"5.692172600000049",
+        "url":"\/p\/fr\/le-vog"
+    },
+    {  
+        "dept":191,
+		"cat":1,
+        "label":"MAPRA - ARTS VISUELS EN RH\u00d4NE-ALPES",
+        "lat":"45.7666754",
+        "long":"4.832635699999969",
+        "url":"\/p\/fr\/mapra-arts-visuels-en-rhone-alpes"
+    },
+    {  
+        "dept":87,
+		"cat":1,
+        "label":"MOLY-SABATA \/ FONDATION ALBERT GLEIZES",
+        "lat":"45.3084034",
+        "long":"4.792172499999992",
+        "url":"\/p\/fr\/moly-sabata-fondation-albert-gleizes"
+    },
+    {  
+        "dept":68,
+		"cat":1,
+        "label":"MUS\u00c9E D\u0027ART CONTEMPORAIN DE LYON",
+        "lat":"45.7838281",
+        "long":"4.852403600000002",
+        "url":"\/p\/fr\/musee-d-art-contemporain-de-lyon"
+    },
+    {  
+        "dept":70,
+		"cat":1,
+        "label":"MUS\u00c9E-CH\u00c2TEAU D\u0027ANNECY",
+        "lat":"45.8970952",
+        "long":"6.124783799999932",
+        "url":"\/p\/fr\/musee-chateau-d-annecy"
+    },
+    {  
+        "dept":125,
+		"cat":1,
+        "label":"MUS\u00c9E D\u0027ART MODERNE ET CONTEMPORAIN DE SAINT-ETIENNE M\u00c9TROPOLE",
+        "lat":"45.4705973",
+        "long":"4.372738099999992",
+        "url":"\/p\/fr\/musee-d-art-moderne-et-contemporain-de-saint-etienne-metropole"
+    },
+    {  
+        "dept":126,
+		"cat":1,
+        "label":"MUS\u00c9E DE GRENOBLE",
+        "lat":"45.194077",
+        "long":"5.732171999999991",
+        "url":"\/p\/fr\/musee-de-grenoble"
+    },
+    {  
+        "dept":166,
+		"cat":1,
+        "label":"MUS\u00c9E DE VALENCE ART ET ARCHEOLOGIE",
+        "lat":"44.9312305",
+        "long":"4.889714499999968",
+        "url":"\/p\/fr\/musee-de-valence-art-et-archeologie"
+    },
+    {  
+        "dept":69,
+		"cat":1,
+        "label":"MUS\u00c9E PAUL-DINI",
+        "lat":"45.9908874",
+        "long":"4.721585600000026",
+        "url":"\/p\/fr\/musee-paul-dini"
+    },
+    {  
+        "dept":164,
+		"cat":1,
+        "label":"N\u00c9ON",
+        "lat":"45.7706629",
+        "long":"4.835834900000009",
+        "url":"\/p\/fr\/neon"
+    },
+    {  
+        "dept":201,
+		"cat":1,
+        "label":"P\u00d4LE LAND ART D\u00c9PARTEMENTAL \/ PLAD \/ FERME DE CHOSAL",
+        "lat":"46.0300278",
+        "long":"6.069846900000016",
+        "url":"\/p\/fr\/pole-land-art-departemental-plad-ferme-de-chosal"
+    },
+    {  
+        "dept":172,
+		"cat":1,
+        "label":"R\u00c9SEAU D\u0027\u00c9CHANGE D\u00c9PARTEMENTAL POUR L\u0027ART CONTEMPORAIN DE HAUTE-SAVOIE",
+        "lat":"45.8957037",
+        "long":"6.130149399999937",
+        "url":"\/p\/fr\/reseau-d-echange-departemental-pour-l-art-contemporain-de-haute-savoie"
+    },
+    {  
+        "dept":92,
+		"cat":1,
+        "label":"SPACEJUNK GRENOBLE",
+        "lat":"45.1866863",
+        "long":"5.721814600000016",
+        "url":"\/p\/fr\/spacejunk-grenoble"
+    },
+    {  
+        "dept":91,
+		"cat":1,
+        "label":"SPACEJUNK LYON",
+        "lat":"45.7693255",
+        "long":"4.834438900000009",
+        "url":"\/p\/fr\/spacejunk-lyon"
+    },
+    {  
+        "dept":88,
+		"cat":1,
+        "label":"URDLA CENTRE INTERNATIONAL ESTAMPE \u0026 LIVRE",
+        "lat":"45.7709844",
+        "long":"4.887984599999982",
+        "url":"\/p\/fr\/urdla-centre-international-estampe-livre"
+    }
+]

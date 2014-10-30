@@ -5,6 +5,12 @@
 		{ "visibility": "off" }
 	]
 },{
+    "featureType": "administrative",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      { "color": "#808080" }
+    ]
+},{
 	"elementType": "labels.icon",
 	"stylers": [
 		{ "visibility": "off" }
@@ -67,10 +73,5 @@
 	"stylers": [
 		{ "visibility": "on" },
 		{ "color": "#FFFFFF" }
-	]
-},{
-	"featureType": "administrative.locality",
-	"stylers": [
-		{ "visibility": "off" }
 	]
 }]

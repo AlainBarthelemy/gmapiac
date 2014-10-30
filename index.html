@@ -1,22 +1,58 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style type="text/css">
-      html, body, #map-canvas { height: 100%; margin: 0; padding: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
-      
-    </style>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link href="style.css" rel="stylesheet" type="text/css">
 
     <script type="text/javascript" src="jquery-1.11.1.js"></script>
     <script type="text/javascript" src="geoxml3/geoxml3.js"></script>
     <!--<script type="text/javascript" src="geoxml3/ProjectedOverlay.js"></script>-->
     
-    <script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8rMpdYlwNasfObfcmFBJhQXF0eqST0wA">
+    
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8rMpdYlwNasfObfcmFBJhQXF0eqST0wA">
     </script>
     
     <script type="text/javascript" src="main.js"></script>
+    
+    
   </head>
   <body>
-<div id="map-canvas"></div>
+  	<div id="main-container">
+		<div id="map-container">
+			<div id="map-canvas"></div>
+		</div>
+		<div id="menu-container">
+			<div class="accordion">
+				<h1 id="collection-ra">La collection en Rhône-Alpes</h1>
+				<div class="texte" style="padding:6px;background:#b6e2f6;color:black">
+				<span><b style="text-decoration:underline">La collection en Rhône-Alpes en quelques chiffres :</b></br></br>
+Depuis 2000 = 53 expos (dans le cadre du réseau Galeries), 47 expositions (dans le cadre des Galeries Nomades), plus de 682 œuvres.</span>
+				</div>
+				<h1 id="collection-dept">La collection par département</h1>
+				<div>
+					<h2 id="rhone">Rhône</h2>
+					<div><ul></ul></div>
+					<h2 id="loire">Loire</h2>
+					<div><ul></ul></div>
+					<h2 id="ain">Ain</h2>
+					<div><ul></ul></div>
+					<h2 id="drome">Drôme</h2>
+					<div><ul></ul></div>	
+					<h2 id="ardeche">Ardèche</h2>
+					<div><ul></ul></div>	
+					<h2 id="isere">Isère</h2>
+					<div><ul></ul></div>	
+					<h2 id="savoie">Savoie</h2>
+					<div><ul></ul></div>	
+					<h2 id="hsavoie">Haute-Savoie</h2>
+					<div><ul></ul></div>	
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<script src="accordion.js"></script>
   </body>
 </html>

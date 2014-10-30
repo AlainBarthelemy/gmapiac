@@ -1,0 +1,96 @@
+		// I . A . C .
+		
+	/*			var iacLatlng = new google.maps.LatLng(45.7624347,4.8723466);
+		var iacInfoContent = '<div id="content">'+
+			  '<div id="siteNotice">'+
+			  '</div>'+
+			  '<h1 id="firstHeading" class="firstHeading">I.A.C</h1>'+
+			  '<div id="bodyContent">'+
+			  "<p>Institut d'Art Contemporain de Villeurbanne</p>"+
+			  '<img src="http://i-ac.eu/img/thumbs_cache/600x400_janssens.jpg" class="ltn" itemprop="image" alt="">'+
+			  '</div>'+
+			  '</div>';
+		var iacInfoWindow = new google.maps.InfoWindow({
+			content: iacInfoContent,
+			maxWidth: 400
+		});*/
+		
+				/*var iacMarker = new google.maps.Marker({
+		  position: iacLatlng,
+		  map: map,
+		  title: 'I.A.C',
+		  icon: markerIMG,
+		  animation: google.maps.Animation.DROP
+	  });*/
+		  
+		  
+		  
+	/*			  google.maps.event.addListener(iacMarker, 'click', function() {
+			iacInfoWindow.open(map,iacMarker);
+		  });*/
+	  
+		// L A R R Y  B E L L
+		
+	/*			var larryLatlng = new google.maps.LatLng(45.7571436,4.7940908);
+		var larryInfoContent ='<div id="content">'+
+			  '<div id="siteNotice">'+
+			  '</div>'+
+			  '<h1 id="firstHeading" class="firstHeading">Larry Bell</h1>'+
+			  '<div id="bodyContent">'+
+			  "<p>Glass Series</p>"+
+			  '<img style="width:100%" src="http://minimalissimo.com/wordpress/wp-content/uploads/2010/12/Larry-Bell-41.png" class="ltn" itemprop="image" alt="">'+
+			  '</div>'+
+			  '</div>';
+		var larryInfoWindow = new google.maps.InfoWindow({
+			content: larryInfoContent ,
+			maxWidth: 400
+		});*/
+		
+	/*			  var larryMarker = new google.maps.Marker({
+			  position: larryLatlng,
+			  map: map,
+			  title: 'Larry Bell',
+			  icon: markerIMG2,
+			  animation: google.maps.Animation.DROP
+		  });*/
+		  
+	/*			  google.maps.event.addListener(larryMarker, 'click', function() {
+			larryInfoWindow.open(map,larryMarker);
+		  });*/
+		  
+		  
+		  
+		  
+  /*		  var rhoneMarkers = [
+	  {
+		  position: iacLatlng,
+		  map: map,
+		  title: 'I.A.C',
+		  icon: markerIMG,
+		  animation: google.maps.Animation.DROP
+	  },
+	  {
+		  position: larryLatlng,
+		  map: map,
+		  title: 'Larry Bell',
+		  icon: markerIMG2,
+		  animation: google.maps.Animation.DROP				  	  
+	  }
+  ];*/
+  
+		/*var iacMarker = new google.maps.Marker({
+			  position: iacLatlng,
+			  map: map,
+			  title: 'I.A.C',
+			  icon: markerIMG,
+			  animation: google.maps.Animation.DROP
+		  });*/
+		  
+		  
+		  
+		 /* google.maps.event.addListener(iacMarker, 'click', function() {
+			iacInfoWindow.open(map,iacMarker);
+		  });
+		  google.maps.event.addListener(larryMarker, 'click', function() {
+			larryInfoWindow.open(map,larryMarker);
+		  });*/
