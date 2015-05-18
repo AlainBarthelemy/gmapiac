@@ -1,8 +1,8 @@
 var map;
 var kmlParser;
-var markerIMG1 = 'hexa1.png';
-var markerIMG2 = 'hexa2.png';
-var markerIMG3 = 'hexa3.png';
+var markerIMG1 = 'imgs/hexa1.png';
+var markerIMG2 = 'imgs/hexa2.png';
+var markerIMG3 = 'imgs/hexa3.png';
 //var markerIMG2 = 'glyphicons_021_snowflake.png';
 var deptList = [];
 var initPos = {lat: 45.317723, lng: 5.4372395, zoom:8}
@@ -123,17 +123,25 @@ function resetMapPos(){
 	map.panTo({ lat:initPos.lat, lng: initPos.lng});	
 }
 
+var infowindow = new google.maps.InfoWindow({
+  content: "",
+  disableAutoPan:true
+});
+
 function addMarker(marker) {
   currentMarkers.push(new google.maps.Marker(marker));
   
-  var infowindow = new google.maps.InfoWindow({
-      content: marker.name
-  });
+
   google.maps.event.addListener(currentMarkers[currentMarkers.length-1], 'mouseover', function() {
+  	infowindow.setContent(this.name);
     infowindow.open(map,this);
   });
   google.maps.event.addListener(currentMarkers[currentMarkers.length-1], 'mouseout', function() {
     infowindow.close();
+  });
+  google.maps.event.addListener(currentMarkers[currentMarkers.length-1], 'click', function() {
+  	map.panTo(this.getPosition());
+	map.setZoom(11);
   });
 }
 
@@ -218,6 +226,14 @@ function centerMapOnDept(dept){
 	  map.setZoom(9);
 }
 
+function getMarkerFromName(name){
+	for (var k = 0; k < currentMarkers.length; k++) {
+		if(currentMarkers[k].name == name)
+			return currentMarkers[k];
+	}
+	return null	
+}
+
 google.maps.event.addDomListener(window, 'load', initialize);
 
 
@@ -227,28 +243,28 @@ function populateMenuWithMarkerInfo(){
 	for (var k = 0; k < markerList.length; k++) {
 		switch(markerList[k].dept){
 			case "69" :
-				$("#rhone").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#rhone").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "42" :
-				$("#loire").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#loire").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "01" :
-				$("#ain").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#ain").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "26" :
-				$("#drome").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#drome").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "07" :
-				$("#ardeche").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#ardeche").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "38" :
-				$("#isere").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#isere").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "73" :
-				$("#savoie").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#savoie").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			case "74" :
-				$("#hsavoie").next().children("ul").append('<li>'+markerList[k].name+'</li>');
+				$("#hsavoie").next().children("ul").prepend('<li class=cat-'+markerList[k].cat+'>'+markerList[k].name+'</li>');
 			break;
 			
 			default :
@@ -256,6 +272,14 @@ function populateMenuWithMarkerInfo(){
 		
 		}
 	}
+	
+	$(".cat-1, .cat-2, .cat-3").on("click",function(event){
+		marker = getMarkerFromName($(this).text());	
+		map.panTo(marker.getPosition());
+	    map.setZoom(11);
+	    infowindow.setContent(marker.name);
+	    infowindow.open(map,marker);
+	});
 }
 
 function openMenuSection(dept){
@@ -315,6 +339,7 @@ function accordionToggle(target){
 
 
 $( document ).ready(function() {
+		
 	$("#collection-ra").on("click",function(event){
 		unselectAllDept();
 		resetMapPos();

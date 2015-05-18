@@ -1,5 +1,383 @@
 [
     {  
+        "dept":"74",
+		"cat":3,
+		"name":"École Supérieure d’art, Annecy",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART DE L\u2019AGGLOM\u00c9RATION D\u0027ANNECY (ESAAA)",
+        "lat":"45.8941438",
+        "long":"6.134657800000014",
+        "url":"\/p\/fr\/ecole-superieure-d-art-de-l-agglomeration-d-annecy-esaaa"
+    },
+	{
+        "dept":"74",
+		"cat":2,
+		"name":"Lycée des Glières, Annemasse",
+        "label":"",
+        "lat":"46.1905835",
+        "long":"6.2422915",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":2,
+		"name":"Collège Henri Corbet, Saint-Jean-d’Aulps",
+        "label":"",
+        "lat":"46.232796",
+        "long":"6.651631",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":2,
+		"name":"Collège Champagne, Thonon-les-Bains",
+        "label":"",
+        "lat":"46.379002",
+        "long":"6.494441",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":2,
+		"name":"Collège Le Bonrieu, Bozel",
+        "label":"",
+        "lat":"45.44407",
+        "long":"6.649621",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":2,
+		"name":"Lycée des Glières, Annemasse",
+        "label":"",
+        "lat":"46.190226",
+        "long":"6.242398",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":1,
+		"name":"Images Passages, Annecy",
+        "label":"",
+        "lat":"45.902036",
+        "long":"6.124757",
+        "url":""
+    },
+	{
+        "dept":"74",
+		"cat":1,
+		"name":"Musée-Château, Annecy",
+        "label":"",
+        "lat":"45.897461",
+        "long":"6.12572",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":2,
+		"name":"Collège de Maurienne, Saint-Jean-de-Maurienne",
+        "label":"",
+        "lat":"45.2729561",
+        "long":"6.3464246",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":2,
+		"name":"Lycée Louis Armand, Chambéry",
+        "label":"",
+        "lat":"45.595513",
+        "long":"5.91897",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":2,
+		"name":"Collège Joseph et Xavier de Maistre, Saint-Alban-Leysse",
+        "label":"",
+        "lat":"45.580834",
+        "long":"5.959906",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":1,
+		"name":"Espace Malraux, Chambéry",
+        "label":"",
+        "lat":"45.563298",
+        "long":"5.925482",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":1,
+		"name":"Cité des Arts, Chambéry",
+        "label":"",
+        "lat":"45.568638",
+        "long":"5.916792",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":1,
+		"name":"Musée des Beaux-Arts, Chambéry",
+        "label":"",
+        "lat":"45.568255",
+        "long":"5.919629",
+        "url":""
+    },
+	{
+        "dept":"73",
+		"cat":1,
+		"name":"Maison des Arts, Aime La Plagne",
+        "label":"",
+        "lat":"45.5568419",
+        "long":"6.6497791",
+        "url":""
+    },
+    {  
+        "dept":"69",
+		"cat":3,
+		"name":"École nationale des beaux-arts de Lyon",
+        "label":"\u00c9COLE NATIONALE SUP\u00c9RIEURE DES BEAUX-ARTS (ENSBA) DE LYON",
+        "lat":"45.7681867",
+        "long":"4.8160371999999825",
+        "url":"\/p\/fr\/ecole-nationale-superieure-des-beaux-arts-ensba-de-lyon"
+    },
+	{
+        "dept":"69",
+		"cat":3,
+		"name":"Université Lyon 2",
+        "label":"",
+        "lat":"45.750829",
+        "long":"4.837191",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":3,
+		"name":"Université Lyon 3",
+        "label":"",
+        "lat":"45.748266",
+        "long":"4.86006",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":3,
+		"name":"INSA de Lyon",
+        "label":"",
+        "lat":"45.782961",
+        "long":"4.875031",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":3,
+		"name":"ENS de Lyon",
+        "label":"",
+        "lat":"45.732502",
+        "long":"4.83292",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Lycée Blaise Pascal, Charbonnières-les-Bains",
+        "label":"",
+        "lat":"45.768268",
+        "long":"4.748154",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Collège Alexis Kandelaft, Chazay-d’Azergues",
+        "label":"",
+        "lat":"45.872763",
+        "long":"4.71096",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Collège Henri Barbusse, Vaulx-en-Velin",
+        "label":"",
+        "lat":"45.7775555",
+        "long":"4.9242625",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Collège Eugénie de Pomey, Amplepuis",
+        "label":"",
+        "lat":"45.971897",
+        "long":"4.334355",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Collège les Iris, Villeurbanne ",
+        "label":"",
+        "lat":"45.769278",
+        "long":"4.896843",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Lycée Lacassagne, Lyon",
+        "label":"",
+        "lat":"45.757807",
+        "long":"4.870365",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":2,
+		"name":"Lycée Georges Lamarque, Rillieux-la-Pape",
+        "label":"",
+        "lat":"45.803685",
+        "long":"4.88246",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":1,
+		"name":"Artothèque / MLIS, Villeurbanne",
+        "label":"",
+        "lat":"45.7680331",
+        "long":"4.8876975",
+        "url":""
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"INSA de Lyon/Centre des Humanités, Villeurbanne",
+        "label":"",
+        "lat":"45.7835714",
+        "long":"4.8745134",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":1,
+		"name":"Gares & Connexions / SNCF, Gare Lyon Perrache et Gare Lyon Saint-Exupéry",
+        "label":"",
+        "lat":"45.749405",
+        "long":"4.826801",
+        "url":""
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Galeries Lafayette, Lyon / Bron",
+        "label":"",
+        "lat":"45.7304337",
+        "long":"4.8912867",
+        "url":""
+    },
+	{
+        "dept":"69",
+		"cat":1,
+		"name":"Banque CIC, Lyon ",
+        "label":"",
+        "lat":"45.7565295",
+        "long":"4.8311942",
+        "url":""
+    },
+    {  
+        "dept":"69",
+		"cat":1,
+		"name":"Musée des Beaux-Arts, Lyon",
+        "label":"",
+        "lat":"45.767169",
+        "long":"4.833537",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":3,
+		"name":"École Supérieure d’Art et de Design, Saint-Étienne",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN DE SAINT-ETIENNE (ESADSE)",
+        "lat":"45.44936939999999",
+        "long":"4.385759499999949",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-de-saint-etienne-esadse"
+    },
+    {  
+        "dept":"42",
+		"cat":2,
+		"name":"Collège Marc Seguin, Saint-Étienne",
+        "label":"",
+        "lat":"45.468345",
+        "long":"4.409149",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":2,
+		"name":"Lycée François Mauriac, Andrézieux-Bouthéon",
+        "label":"",
+        "lat":"45.53002",
+        "long":"4.27101",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":2,
+		"name":"Lycée Étienne Mimard, Saint-Étienne",
+        "label":"",
+        "lat":"45.438727",
+        "long":"4.396986",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":1,
+		"name":"La Serre, Saint-Étienne",
+        "label":"",
+        "lat":"45.434578",
+        "long":"4.3867558",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":1,
+		"name":"Château de la Bâtie d'Urfée, Saint-Étienne-le-Molard ",
+        "label":"",
+        "lat":"45.72782",
+        "long":"4.078741",
+        "url":""
+    },
+    {  
+        "dept":"42",
+		"cat":1,
+		"name":"Musée Joseph Déchelette, Roanne ",
+        "label":"",
+        "lat":"46.035124",
+        "long":"4.069268",
+        "url":""
+    },
+	{
+        "dept":"42",
+		"cat":1,
+		"name":"Parc du Château de Beaulieu, Riorges",
+        "label":"",
+        "lat":"46.035536",
+        "long":"4.043625",
+        "url":""
+    },
+    {  
+        "dept":"38",
+		"cat":3,
+		"name":"Ecole Supérieure d’art de Valence et Grenoble, Grenoble",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN GRENOBLE-VALENCE",
+        "lat":"45.1868887",
+        "long":"5.7268528",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-grenoble-valence"
+    },
+    {  
         "dept":"38",
 		"cat":2,
 		"name":"Lycée Pierre Béghin, Moirons",
@@ -17,10 +395,19 @@
         "long":"5.44765",
         "url":""
     },
+	{
+        "dept":"38",
+		"cat":1,
+		"name":"Espace Vallès, Saint-Martin d’Hères",
+        "label":"",
+        "lat":"45.185577",
+        "long":"5.747346",
+        "url":""
+    },
     {  
         "dept":"38",
 		"cat":1,
-		"name":"Cab, Grenoble",
+		"name":"CAB – Centre d’Art Bastille, Grenoble",
         "label":"",
         "lat":"45.198611",
         "long":"5.724306",
@@ -52,6 +439,15 @@
         "lat":"45.5870182",
         "long":"5.2792363",
         "url":""
+    },
+    {  
+        "dept":"26",
+		"cat":3,
+		"name":"Ecole Supérieure d’art de Valence et Grenoble, Valence",
+        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN GRENOBLE-VALENCE",
+        "lat":"45.1868887",
+        "long":"5.7268528",
+        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-grenoble-valence"
     },
     {  
         "dept":"26",
@@ -92,7 +488,7 @@
     {  
         "dept":"26",
 		"cat":1,
-		"name":"Espace Visitation, Romans",
+		"name":"Espace Visitation – Musée Romans-sur-Isère",
         "label":"",
         "lat":"45.0439753",
         "long":"5.0541073",
@@ -119,7 +515,7 @@
     {  
         "dept":"26",
 		"cat":1,
-		"name":"Château des Adhémar/Centre d’art contemporain, Montélimar ",
+		"name":"Château des Adhémar / Centre d’art contemporain, Montélimar ",
         "label":"",
         "lat":"44.559181",
         "long":"4.754174",
@@ -141,15 +537,6 @@
         "label":"",
         "lat":"45.1221075",
         "long":"4.981542",
-        "url":""
-    },
-    {  
-        "dept":"26",
-		"cat":1,
-		"name":"Château des Allymes, Ambérieu-en-Bugey ",
-        "label":"",
-        "lat":"45.973666",
-        "long":"5.409959",
         "url":""
     },
     {  
@@ -209,7 +596,7 @@
 	{  
         "dept":"01",
 		"cat":2,
-		"name":"Collège de Prevessin-Moëns",
+		"name":"Collège Le Joran, Prèvessin-Moëns",
         "label":"",
         "lat":"46.25636",
         "long":"6.073248",
@@ -254,7 +641,7 @@
 	{  
         "dept":"01",
 		"cat":1,
-		"name":"Centre Aragon, Oyonnax",
+		"name":"Centre Culturel Aragon, Oyonnax",
         "label":"",
         "lat":"46.260861",
         "long":"5.646286",
@@ -276,6 +663,15 @@
         "label":"",
         "lat":"46.430357",
         "long":"4.937886",
+        "url":""
+    },
+    {  
+        "dept":"01",
+		"cat":1,
+		"name":"Château des Allymes, Ambérieu-en-Bugey ",
+        "label":"",
+        "lat":"45.973666",
+        "long":"5.409959",
         "url":""
     },
     {  
@@ -308,47 +704,11 @@
     {  
         "dept":"01",
 		"cat":1,
-		"name":"Centre d'Art Contemporain de Lacoux à Hauteville-Lompnes",
+		"name":"Centre d’Art Contemporain de Lacoux, Hauteville-Lompnes",
         "label":"CENTRE D\u0027ART CONTEMPORAIN DE LACOUX (CACL)",
         "lat":"45.968156",
         "long":"5.542425999999978",
         "url":"\/p\/fr\/centre-d-art-contemporain-de-lacoux-cacl"
-    },
-    {  
-        "dept":"74",
-		"cat":3,
-		"name":"Ecole Supérieure d’art d’Annecy",
-        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART DE L\u2019AGGLOM\u00c9RATION D\u0027ANNECY (ESAAA)",
-        "lat":"45.8941438",
-        "long":"6.134657800000014",
-        "url":"\/p\/fr\/ecole-superieure-d-art-de-l-agglomeration-d-annecy-esaaa"
-    },
-    {  
-        "dept":"42",
-		"cat":3,
-		"name":"Ecole Supérieure d’art et design de Saint-Etienne",
-        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN DE SAINT-ETIENNE (ESADSE)",
-        "lat":"45.44936939999999",
-        "long":"4.385759499999949",
-        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-de-saint-etienne-esadse"
-    },
-    {  
-        "dept":"69",
-		"cat":3,
-		"name":"Ecole Nationale des Beaux-Arts de Lyon",
-        "label":"\u00c9COLE NATIONALE SUP\u00c9RIEURE DES BEAUX-ARTS (ENSBA) DE LYON",
-        "lat":"45.7681867",
-        "long":"4.8160371999999825",
-        "url":"\/p\/fr\/ecole-nationale-superieure-des-beaux-arts-ensba-de-lyon"
-    },
-    {  
-        "dept":"38",
-		"cat":3,
-		"name":"Ecole Supérieure d’art de Valence et Grenoble",
-        "label":"\u00c9COLE SUP\u00c9RIEURE D\u0027ART ET DESIGN GRENOBLE-VALENCE",
-        "lat":"45.1868887",
-        "long":"5.7268528",
-        "url":"\/p\/fr\/ecole-superieure-d-art-et-design-grenoble-valence"
     },
     {  
         "dept":"26",
@@ -380,7 +740,7 @@
     {  
         "dept":"42",
 		"cat":1,
-		"name":"Greenhouse, Saint-Etienne ",
+		"name":"Greenhouse, Saint-Étienne ",
         "label":"GREENHOUSE",
         "lat":"45.416548",
         "long":"4.390840099999991",
@@ -398,7 +758,7 @@
     {  
         "dept":"69",
 		"cat":1,
-		"name":"Attrape Couleurs, Lyon",
+		"name":"L'Attrape Couleurs, Lyon",
         "label":"L\u0027ATTRAPE-COULEURS",
         "lat":"45.7981144",
         "long":"4.830147699999998",
@@ -479,7 +839,7 @@
     {  
         "dept":"38",
 		"cat":1,
-		"name":"Fondation Albert Gleizes, Moly Sabata",
+		"name":"Moly-Sabata, Fondation Albert Gleizes, Sablon",
         "label":"MOLY-SABATA \/ FONDATION ALBERT GLEIZES",
         "lat":"45.3084034",
         "long":"4.792172499999992",
@@ -497,7 +857,7 @@
     {  
         "dept":"42",
 		"cat":1,
-		"name":"Musée d’art moderne, Saint-Etienne Métropole",
+		"name":"Musée d’art moderne, Saint-Étienne Métropole",
         "label":"MUS\u00c9E D\u0027ART MODERNE ET CONTEMPORAIN DE SAINT-ETIENNE M\u00c9TROPOLE",
         "lat":"45.4705973",
         "long":"4.372738099999992",
@@ -524,7 +884,7 @@
     {  
         "dept":"69",
 		"cat":1,
-		"name":"Urdla, Lyon ",
+		"name":"Urdla, Villeurbanne ",
         "label":"URDLA CENTRE INTERNATIONAL ESTAMPE \u0026 LIVRE",
         "lat":"45.7709844",
         "long":"4.887984599999982",
